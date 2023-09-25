@@ -1,0 +1,5 @@
+cd Folder
+// cd to the folder that you want to install
+python -m venv env
+env\Scripts\activate.bat
+pip install pywin32
